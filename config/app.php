@@ -51,7 +51,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'http:http://dismaq.herokuapp.com/'),
 
     /*
     |--------------------------------------------------------------------------
@@ -103,7 +103,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY'),
+    'key' => env('base64:TJmyGdwOVWVqLVTY0dd13WskzyIdCWdul1N5BnZH4a4='),
 
     'cipher' => 'AES-256-CBC',
 
