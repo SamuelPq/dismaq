@@ -51,7 +51,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http:http://dismaq.herokuapp.com/'),
+    'url' => env('APP_URL', 'http://dismaq.herokuapp.com/'),
 
     /*
     |--------------------------------------------------------------------------
